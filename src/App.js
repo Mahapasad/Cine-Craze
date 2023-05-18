@@ -4,7 +4,7 @@ import "./App.css";
 import searchIcon from "./search.svg";
 import MovieCard from "./MovieCard";
 
-const API_URL = "http://www.omdbapi.com?apikey=36e3322c";
+const API_URL = "https://www.omdbapi.com?apikey=36e3322c";
 
 // const movie1 = {
 //   Title: "Spiderman the Verse",
