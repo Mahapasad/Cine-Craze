@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cine-Craze/static/css/main.334bdeb1.css",
+    "main.js": "/Cine-Craze/static/js/main.dd46127d.js",
+    "index.html": "/Cine-Craze/index.html",
+    "static/media/search.svg": "/Cine-Craze/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/Cine-Craze/static/css/main.334bdeb1.css.map",
+    "main.dd46127d.js.map": "/Cine-Craze/static/js/main.dd46127d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.dd46127d.js"
+  ]
+}
